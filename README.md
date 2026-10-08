@@ -1,2 +1,0 @@
-# ADRYNX
-Plateforme Multi services 
